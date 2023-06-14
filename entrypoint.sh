@@ -10,7 +10,7 @@ PAAS1_URL=https://back0503-n3jritmw.b4a.run
 PAAS2_URL=https://rendrr0503.onrender.com 
 PAAS3_URL=https://app-0ec68291-3f3b-4882-a6cf-db75aa008910.cleverapps.io
 PAAS4_URL=https://7qcocw-3000.csb.app
-PAAS5_URL=https://app-mkijjn.cloud.okteto.net/
+PAAS5_URL=https://app-mkijjn.cloud.okteto.net
 PAAS6_URL=
 
 # koyeb账号保活
